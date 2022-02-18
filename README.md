@@ -3,6 +3,11 @@
 Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
 You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
 
+## How to run
+In each level folder you can run 'ruby main.rb' to generate the output file.
+Also, in the specs folder, you can run 'rspec levelx_spec.rb' (x is the level number) to run a simple test checking 
+output against the expected output. 
+
 ## Guidelines
 
 **For each level, write code that creates a new `data/output.json` file from the data in `data/input.json`.
